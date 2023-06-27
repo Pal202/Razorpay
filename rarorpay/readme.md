@@ -1,1 +1,1 @@
-Integreted Razorpay API 
+Integrated Razorpay API using django framework.
